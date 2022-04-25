@@ -1,1 +1,2 @@
 es mi primer texto
+Capitulo 1: inicio de  git
